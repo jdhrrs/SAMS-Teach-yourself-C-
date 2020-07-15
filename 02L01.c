@@ -1,8 +1,8 @@
-/* 02L01.c: This is my first "C" program */
-#include <studio.h>
+#include<stdio.h>
 
-main()
+int main()
 {
-	printf("Howdy Neighbor! This is my first "C" program./n)
-	return 0;
-	}
+  printf("Howdy, neighbor!\n");
+  printf("This is my first C Program");
+return 0;
+}

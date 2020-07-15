@@ -1,0 +1,12 @@
+/* WHAT IS WRONG WITH THE FOLLOWING FUCNTION? EXERCISE 3 OF HOUR 3.  */
+
+int integer_add( int x, int y, int 2)
+{
+int sum; 
+sum = x + y + 2(;)
+return sum: 
+}
+
+
+
+A-  LINE 4 sum = x + y + 2 needs to have a semicolon letting us know that we ended the function. 

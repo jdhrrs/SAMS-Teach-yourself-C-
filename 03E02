@@ -1,0 +1,11 @@
+/* WHAT IS WRONG WITH THE FOLLOWING FUNCTION? EXERCISE 2 OF HOUR 3 */
+
+int 3integer_add( int x, int y, int 2)
+{
+int sum; 
+sum = x + y + 2;
+return sum; 
+}
+
+
+A- 3interger_add is illegal function. Because it starts with a number. 

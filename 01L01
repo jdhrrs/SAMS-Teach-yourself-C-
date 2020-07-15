@@ -1,0 +1,55 @@
+--------/* SUMMARY FOR HOUR 1 _________________________________________________________________________________________________________________________________________________________________________________
+   # C is the general purpose programming language.                                                                                                                                                           |
+   # C is a high-level language that has the advantages of readability, maintainability, and portability.                                                                                                     |                                                                                                             \ 
+   # C is a small language that you can learn in a relatively short time.                                                                                                                                     |
+   # Programs that are written in the C Language, can be reused.                                                                                                                                              |
+   # Programs written in C must be compiled and translated into machine-readable code before the computer can execute them.                                                                                   |
+   # Many other programming languages, such as Perl, C++ and Java, have adopted basic concepts and useful features from the C Language. Once you learn C, Learning these other langauges is much easier.      |
+   # The ANSI Standard for the C Langauge is the standard supported by C compiler vendors to maintain the portability of C programs.                                                                          |                                                                                                                                                                                                            |
+   # You can use any ANSI C Compliant compilers to compile all the C programs in this book                                                                                                                    |
+   # C is a very efficent langauge that allows you to control computer hardware and peripherals. */                                                                                                           |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+ 
+
+__________QUESTIONS AND ANSWERS________________________________________________________________________________________________________________________________________________________________________________
+Q- WHAT IS THE LOWEST-LEVEL LANGUAGE IN THE COMPUTER WORLD?                                                                                                                                                   |
+A- THE COMPUTERS MACHINE LANGAUGE IS THE LOWEST LEVEL PROGRAMMING LANGUAGE BECAUSE THE MACHINE LANGUAGE IS MADE UP OF 0'S AND 1'S (BINARY CODE) AND IS THE ONLY LANGUAGE THAT THE COMPUTER CAN UNDERSTAND     |
+   DIRECTLY.                                                                                                                                                                                                  |
+Q- WHAT ARE THE ADVANTAGES OF HIGH-LEVEL PROGRAMMING LANGUAGE?                                                                                                                                                |
+A-THE ADVANTAGES OF A HIGH-LEVEL PROGRAMMING LANGUAGE ARE:  THE READABILITY, PORTABILITY, AND MAINTAINABILITY.                                                                                                |                                                                                                               |
+Q- WHAT IS C, ANYWAY?                                                                                                                                                                                         |  
+A- C IS A GENERAL PURPOSE PROGRAMMING LANGUAGE. ITS A HIGH-LEVEL PROGRAMMING LANGUAGE THAT HAS THE ADVANTAGES SUCH AS READABILITY, MNAINTAINABILITY, AND PORTABILITY. ALSO, C ALLOWS YOU TO GET DOWN TO       |
+   THE HARDWARE LEVEL TO INCREASE THE PERFORMANCE SPEED IF NEEDED. A C COMPILER IS NEEDED TO TRANSLATE PROGRAMS WRITTEN IN C INTO MACHINE-UNDERSTANDABLE CODE. THE PORTABILITY OF C IS REALIZED BY RECOMPLIING|
+   THE C PROGRAMS WITH DIFFERENT C COMPILERS INTENDED FOR DIFFERENT TYPES OF COMPUTERS.                                                                                                                       |
+Q- CAN I LEARN C IN A SHORT TIME?                                                                                                                                                                             |
+A- YES. C IS A SMALL PROGRAMMING LANGUAGE. THERE ARE NOT MANY KEYWORDS IN C OR COMMANDS TO REMEMBER. ALSO ITS VERY EASY TO READ AND WRITE C PROGRAMS BECAUSE C IS A HIGH-LEVEL PROGRAMMING LANGUAGE THAT IS   |
+   CLOSE TO HUMAN LANGUAGES SUCH AS CHINESE, ENGLISH, FRENCH ETC... ESPECIALLY ENGILISH. YOU CAN LEARN C IN A RELATIVELY SHORT TIME.                                                                          |
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+______________WORKSHOPS________________________________________________________________________________________________________________________________________________________________________________________
+TO HELP SOLIDIFY YOUR UNDERSTANDING OF THIS HOURS LESSONS, YOU ARE ENCOURAGED TO ANSWER THE FOLLOWING QUESTIONS IN THIS QUIZ PROVIDED IN THE WORKSHOP BEFORE YOU MOVE ON TO THE NEXT HOUR LESSON. THE ANSWERS 
+AND HINTS TO THE QUESTIONS ARE GIVEN IN APPENDIX B "ANSWERS TO QUIZ QUESTIONS AND EXERCISE. 
+
+QUIZ 
+1. WHAT ARE THE LOWEST-LEVEL AND HIGHEST-LEVEL PROGRAMMING LANGUAGES MENTIONED IN THIS BOOK?
+
+THE LOWEST LEVEL LANGAUGE MENTIOONED IN THE HOUR THAT A COMPUTER CAN UNDERSTAND DIRECTLY IS MACHINE LANGAUGE-- THAT IS, THE BINARY CODE. ON THE OTHER HAND, THE HIGHEST LANGUAGE, SUCH AS ENGLISH, FRENCH,    
+AND SO ON. MOST HIGH-LEVEL PROGRAMMING LANGUAGES, SUCH AS PERL,JAVA, AND C ARE CLOSE TO THE HUMAN LANGUAGE. 
+
+2. CAN A COMPUTER DIRECTLY UNDERSTAND A PROGRAM WRITTEN IN C? WAHT DO YOU NEED TO TRANSLATE A PROGRAM WRITTEN IN C INTO NMACHINE- UNDERSTANDABLE CODE (THAT IS BINARY CODE)?
+
+A COMPUTER CANNOT DIRECTLY UNDERSTAND A PROGRAM WRITTEN IN C. YOU HAVE TO COMPILE THE PROGRAM AND TRANSLATE IT INTO BINARY CODE SO THAT THE COMPUTER CAN READ IT. 
+
+3. IF NEEDED, CAN A C PROGRAM BE REUSED IN ANOTHER C PROGRAM?
+
+YES, THAT IS THE BEAUTY OF THE C LANGUAGE; YOU CAN WRITE A PROGRAM IN C AND SAVE IT INTO A LIBRARY FILE. LATER YOU CAN INVOKE THE PROGRAM IN ANOTHER C PROGRAM BY INCLUDING THE LIBRARY FILE. 
+
+4. WHY DO WE NEED ANTHE ANSI STANDARD FOR THE C LANGUAGE?
+
+WE NED THE ANSI STANDARD FOR C TO GURANTEE THE PORTABILITY OF THE PROGRAMS WRITTEN IN C. MOST C COMPILER VENDORS SUPPORT THE ANSI STANDARD. IF YOU WRITE PROGRAM BY FOLLOWING THE FULES SET UP BY THE ANSI 
+STANDARD, YOU CAN PORT YOUR PROGRAM TO ANY MACHINE BY SIMPLY RECOMPILING YOUR PROGRAM WITH A COMPUTER THAT SUPPORTS THOSE MACHINES. 
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________
